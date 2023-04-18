@@ -73,4 +73,13 @@
 
 ---
 
+---
+
+#### 參考資訊
+
+1. [Is offset pagination dead? Why cursor pagination is taking over](https://uxdesign.cc/why-facebook-says-cursor-pagination-is-the-greatest-d6b98d86b6c0)
+2. [Cursor based pagination with Spring Boot and MongoDB](https://medium.com/@davide.pedone/cursor-based-pagination-with-spring-boot-and-mongodb-bca6446f3b1f)
+3. [Building APIs: A Comparison Between Cursor and Offset Pagination](https://betterprogramming.pub/building-apis-a-comparison-between-cursor-and-offset-pagination-88261e3885f8)
+4. [Pagination and Sorting using Spring Data JPA](https://www.baeldung.com/spring-data-jpa-pagination-sorting)
+
 ###### tags: `pagination`, `zzzzzYang`
