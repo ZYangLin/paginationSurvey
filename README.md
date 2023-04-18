@@ -73,8 +73,6 @@
 
 ---
 
----
-
 #### 參考資訊
 
 1. [Is offset pagination dead? Why cursor pagination is taking over](https://uxdesign.cc/why-facebook-says-cursor-pagination-is-the-greatest-d6b98d86b6c0)
